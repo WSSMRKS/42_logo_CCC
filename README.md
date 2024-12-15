@@ -2,6 +2,9 @@
 
 This repository contains the 3D model files for the 42 Berlin Logo, designed to be printed in multiple parts with a dual-color scheme (black and white). The design consists of 4 separate pieces, each requiring different prints for black and white sections. The model is also designed to accommodate LEDs for enhanced visual effects. This README provides instructions for the file structure and printing process.
 
+## Dimensions
+The dimensions of the full model are **350 x 400 x 70 mm**.
+
 ## File Structure
 
 ### Main Files

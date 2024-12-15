@@ -1,10 +1,11 @@
 # 42 Berlin Logo 3D Printing Files
 
-This repository contains the 3D model files for the 42 Berlin Logo, designed to be printed in multiple parts with a dual-color scheme (black and white). The design consists of 4 separate pieces, each requiring different prints for black and white sections. This README provides instructions for the file structure and printing process.
+This repository contains the 3D model files for the 42 Berlin Logo, designed to be printed in multiple parts with a dual-color scheme (black and white). The design consists of 4 separate pieces, each requiring different prints for black and white sections. The model is also designed to accommodate LEDs for enhanced visual effects. This README provides instructions for the file structure and printing process.
 
 ## File Structure
 
 ### Main Files
+- `42_logo_full_model_final.f3z`: Fusion 360 project file for the full model.
 - `42_logo_full_model_final.stl`: Complete STL of the assembled logo.
 - `42_logo_full_model_final_picture.png`: Rendered image of the model.
 

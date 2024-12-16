@@ -8,7 +8,6 @@ The dimensions of the full model are **350 x 400 x 35 mm**. The thickness has be
 ## File Structure
 
 ### Main Files
-- `42_logo_full_model_final.f3z`: Fusion 360 project file for the full model.
 - `42_logo_full_model_final.stl`: Complete STL of the assembled logo.
 - `42_logo_full_model_final_picture.png`: Rendered image of the model.
 
